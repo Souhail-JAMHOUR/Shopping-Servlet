@@ -12,6 +12,6 @@ git clone git@github.com:Souhail-JAMHOUR/Shopping-Servlet.git
 - Then
 
 ```
-localhost:8080
+localhost:8080/catalog
 
 ```
