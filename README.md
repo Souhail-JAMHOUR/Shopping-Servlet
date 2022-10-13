@@ -2,7 +2,8 @@
 
 This is a tomcat10+ project using jakarta library and not javax
 
-```git clone git@github.com:Souhail-JAMHOUR/Shopping-Servlet.git
+```
+git clone git@github.com:Souhail-JAMHOUR/Shopping-Servlet.git
 
 ```
 
@@ -10,6 +11,7 @@ This is a tomcat10+ project using jakarta library and not javax
 - Run your Tomcat Server
 - Then
 
-```localhost:8080
+```
+localhost:8080
 
 ```
